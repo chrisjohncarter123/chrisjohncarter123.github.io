@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Information is Power"
-date:       2020-02-14 20:00:58 +0000
+date:       2020-02-14 15:00:59 -0500
 permalink:  information_is_power
 ---
 
