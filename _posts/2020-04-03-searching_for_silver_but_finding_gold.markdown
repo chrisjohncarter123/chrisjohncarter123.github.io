@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Searching for Silver but Finding Gold"
-date:       2020-04-04 02:52:40 +0000
+date:       2020-04-03 22:52:40 -0400
 permalink:  searching_for_silver_but_finding_gold
 ---
 
