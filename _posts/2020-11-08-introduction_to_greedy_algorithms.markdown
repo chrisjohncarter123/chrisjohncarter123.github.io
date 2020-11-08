@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Introduction to Greedy Algorithms"
-date:       2020-11-08 20:17:22 +0000
+date:       2020-11-08 15:17:23 -0500
 permalink:  introduction_to_greedy_algorithms
 ---
 
