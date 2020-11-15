@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "SQLSniper Tool Project"
-date:       2020-11-15 03:08:00 +0000
+date:       2020-11-14 22:08:01 -0500
 permalink:  sqlsniper_tool_project
 ---
 
