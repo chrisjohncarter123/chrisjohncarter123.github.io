@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Some IoT Security Things"
-date:       2020-12-06 22:54:40 +0000
+title:      "IoT Security"
+date:       2020-12-06 17:54:41 -0500
 permalink:  some_iot_security_things
 ---
 
