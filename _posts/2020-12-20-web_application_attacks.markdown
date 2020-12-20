@@ -1,14 +1,14 @@
 ---
 layout: post
 title:      "Web Application Attacks"
-date:       2020-12-20 23:01:29 +0000
+date:       2020-12-20 18:01:30 -0500
 permalink:  web_application_attacks
 ---
 
 
-**Introduction**
+Introduction
 
-	There are many known ways for attacks exploit a web application. New strategies are constantly being developed, and large breaches are being executed by attackers worldwide. In fact, “The 2020 Verizon Data Breach Investigations Report (DBIR) confirms that this is the case: 43% of data breaches are tied to web application vulnerabilities—which more than doubled year over year” (Spencer, 2020). Protecting against even a single type of attack can be difficult - so protecting against many types of attacks can be much more difficult. There are currently many advanced tools for many types of attacks, and they are quickly growing in features. Some of the most dangerous web application attacks include SQL injection, cross-site scripting, command injection, and cross-site request forgery. 
+There are many known ways for attacks exploit a web application. New strategies are constantly being developed, and large breaches are being executed by attackers worldwide. In fact, “The 2020 Verizon Data Breach Investigations Report (DBIR) confirms that this is the case: 43% of data breaches are tied to web application vulnerabilities—which more than doubled year over year” (Spencer, 2020). Protecting against even a single type of attack can be difficult - so protecting against many types of attacks can be much more difficult. There are currently many advanced tools for many types of attacks, and they are quickly growing in features. Some of the most dangerous web application attacks include SQL injection, cross-site scripting, command injection, and cross-site request forgery. 
 	
 **Method: SQL Injection**
 
