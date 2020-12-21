@@ -12,7 +12,7 @@ There are many known ways for attacks exploit a web application. New strategies 
 	
 Method: SQL Injection
 
-	SQL Injection is a very common type of web application attack. Injection attacks are listed as the number one web application security risk, and SQL injection is one of the most common type of injection attacks. SQL is usually used to manipulate data in a database and is a very common language used by developers. SQL injection works by adding malicious SQL code to the target database. This gives attackers strong control over the target database. The following is an example of a SQL injection attack:
+SQL Injection is a very common type of web application attack. Injection attacks are listed as the number one web application security risk, and SQL injection is one of the most common type of injection attacks. SQL is usually used to manipulate data in a database and is a very common language used by developers. SQL injection works by adding malicious SQL code to the target database. This gives attackers strong control over the target database. The following is an example of a SQL injection attack:
 	SELECT * FROM tablename WHERE UserID= 2302
 	becomes the following with a simple SQL injection attack:
 	SELECT * FROM tablename WHERE UserID= 2302 OR 1=1”  (Gregg & Santos, 2020)
@@ -30,7 +30,7 @@ SQL Injection Countermeasures
 	
 Method: Cross-Site Scripting (XSS)
 
-	Like SQL injection, Cross-Site Scripting is also one of the most common types of web application attacks. “Hackers inject malicious scripts in trusted websites to harm both the website and its visitors” (Alexander). “Cross-site scripting ('XSS' or 'CSS') attacks exploit vulnerabilities in dynamically generated web pages, which enables malicious attackers to inject client-side script into web pages viewed by other users. It occurs when invalidated input data is included in dynamic content that is sent to a user's web browser for rendering. Attackers inject malicious JavaScript, VBScript, ActiveX, HTML, or Flash for execution on a victim's system by hiding it within legitimate requests. Attackers bypass client-ID security mechanisms and gain access privileges, and then inject malicious scripts into specific web pages. These malicious scripts can even rewrite HTML website content.” (Gregg & Santos, 2020)
+Like SQL injection, Cross-Site Scripting is also one of the most common types of web application attacks. “Hackers inject malicious scripts in trusted websites to harm both the website and its visitors” (Alexander). “Cross-site scripting ('XSS' or 'CSS') attacks exploit vulnerabilities in dynamically generated web pages, which enables malicious attackers to inject client-side script into web pages viewed by other users. It occurs when invalidated input data is included in dynamic content that is sent to a user's web browser for rendering. Attackers inject malicious JavaScript, VBScript, ActiveX, HTML, or Flash for execution on a victim's system by hiding it within legitimate requests. Attackers bypass client-ID security mechanisms and gain access privileges, and then inject malicious scripts into specific web pages. These malicious scripts can even rewrite HTML website content.” (Gregg & Santos, 2020)
 	
 Cross-Site Scripting  Tools
 Find XSS - “If you seek a simple project-based tool that will help find cross-site scripting problems across a website or a PHP project, Find XSS is one of the most trusted tools that you’d find. Their website offers a detailed explanation of how to get started.”
@@ -61,7 +61,7 @@ Cross-Site Request Forgery Countermeasures
 	
 Conclusion
 
-	Testing for web application vulnerabilities is an important step in pen testing a network. Large companies will have many applications that will each require extensive testing to meet minimum requirements for deployment. There are many security firms that provide pen testing services, including ScienceSoft, Acunetix, Netsparker, CyberHunter, Raxis, and ImmuniWeb. (Top 10 Penetration Testing Companies and Service Providers (Rankings)). Sometimes, before someone can think like a cybersecurity professional, he/she must first think like a malicious attacker, which makes ethical hacking a valuable tool for securing networks.
+Testing for web application vulnerabilities is an important step in pen testing a network. Large companies will have many applications that will each require extensive testing to meet minimum requirements for deployment. There are many security firms that provide pen testing services, including ScienceSoft, Acunetix, Netsparker, CyberHunter, Raxis, and ImmuniWeb. (Top 10 Penetration Testing Companies and Service Providers (Rankings)). Sometimes, before someone can think like a cybersecurity professional, he/she must first think like a malicious attacker, which makes ethical hacking a valuable tool for securing networks.
 
 References:
 
@@ -69,7 +69,7 @@ Alexander, G. 9 Cross-Site Scripting (XSS) Scan Testing Tools Online. MisterScan
 
 Commix. Penetration Testing Tools. https://tools.kali.org/exploitation-tools/commix. 
 
-Cross Site Scripting Prevention Cheat Sheet¶. OWASP Cheat Sheet Series. https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html. 
+Cross Site Scripting Prevention Cheat Sheet. OWASP Cheat Sheet Series. https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html. 
 
 Gregg, M., & Santos, O. (2020). CEH: Certified ethical hacker version 10. Honoken, NJ: Pearson.
 
